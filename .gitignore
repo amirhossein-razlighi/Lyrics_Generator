@@ -1,5 +1,7 @@
-./__pycache__
-./venv
+__pycache__/
+venv/
+
 *.mp3
 *.wav
 .DS_Store
+.env
